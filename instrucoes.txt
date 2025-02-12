@@ -1,0 +1,3 @@
+COPIAR UM REPOSITÓRIO
+
+1 - git clono URL DO REPO
