@@ -1,3 +1,20 @@
 COPIAR UM REPOSITÓRIO
 
 1 - git clono URL DO REPO
+
+COPIAR UM REPOSITÓRIO
+
+1 - git clone URL DO REPO
+
+SUBIR UM COMMIT:
+
+1 - git status   (VERMELHO)
+2 - git add . 
+3 - git status   (VERDE)
+4 - git commit -m "NOME DO COMMIT"
+5 - git push
+
+CONFIGURAÇÕES INICIAIS:
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"  
